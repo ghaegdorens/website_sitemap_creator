@@ -1,0 +1,149 @@
+{'href': '//archive.org/includes/build/css/archive.min.css?v=e2af7ad', 'rel': ['stylesheet'], 'type': 'text/css'}
+{'href': '/_static/images/archive.ico', 'rel': ['shortcut', 'icon']}
+{'rel': ['stylesheet'], 'type': 'text/css', 'href': '/_static/css/styles.css'}
+{'href': '/_static/css/web.css', 'rel': ['stylesheet'], 'type': 'text/css'}
+{'rel': ['stylesheet'], 'type': 'text/css', 'href': '/static/bower_components/wayback-search-js/dist/vendors~main.4086a5947ecda6114979.chunk.css'}
+{'rel': ['stylesheet'], 'type': 'text/css', 'href': '/static/bower_components/wayback-search-js/dist/main.8de6b38d5b59a14267d9.chunk.css'}
+{'style': 'display:inline', 'data-event-click-tracking': 'TopNav|WaybackMachineStatsLink', 'href': 'https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/'}
+{'style': 'padding-bottom:0', 'data-event-click-tracking': 'TopNav|WaybackMachineLogoLink', 'href': 'https://archive.org/web/'}
+{'href': 'https://archive.org/details/texts', 'data-event-click-tracking': 'TopNav|FeaturedLink-AllTexts'}
+{'href': 'https://archive.org/search.php?query=mediatype:texts&sort=-publicdate', 'data-event-click-tracking': 'TopNav|FeaturedLink-ThisJustInTexts'}
+{'href': 'https://archive.org/details/smithsonian', 'title': 'Smithsonian Libraries', 'data-event-click-tracking': 'TopNav|FeaturedLink-SmithsonianLibraries'}
+{'href': 'https://archive.org/details/fedlink', 'title': 'FEDLINK (US)', 'data-event-click-tracking': 'TopNav|FeaturedLink-FEDLINKUS'}
+{'href': 'https://archive.org/details/genealogy', 'title': 'Genealogy', 'data-event-click-tracking': 'TopNav|FeaturedLink-Genealogy'}
+{'href': 'https://archive.org/details/lincolncollection', 'title': 'Lincoln Collection', 'data-event-click-tracking': 'TopNav|FeaturedLink-LincolnCollection'}
+{'href': 'https://archive.org/details/additional_collections', 'title': 'Additional Collections', 'data-event-click-tracking': 'TopNav|FeaturedLink-AdditionalCollections'}
+{'href': 'https://archive.org/details/inlibrary?sort=-publicdate', 'style': "background-image: url('https://archive.org/images/book-lend.png');", 'aria-hidden': 'true', 'data-event-click-tracking': 'TopNav|CircleWidget-BooksToBorrow'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'TopNav|CircleWidget-BooksToBorrow', 'href': 'https://archive.org/details/inlibrary?sort=-publicdate'}
+{'href': 'https://archive.org/details/americana', 'title': 'American Libraries', 'data-event-click-tracking': 'TopNav|TopLink-AmericanLibraries'}
+{'href': 'https://archive.org/details/toronto', 'title': 'Canadian Libraries', 'data-event-click-tracking': 'TopNav|TopLink-CanadianLibraries'}
+{'href': 'https://archive.org/details/universallibrary', 'title': 'Universal Library', 'data-event-click-tracking': 'TopNav|TopLink-UniversalLibrary'}
+{'href': 'https://archive.org/details/opensource', 'title': 'Community Texts', 'data-event-click-tracking': 'TopNav|TopLink-CommunityTexts'}
+{'href': 'https://archive.org/details/gutenberg', 'title': 'Project Gutenberg', 'data-event-click-tracking': 'TopNav|TopLink-ProjectGutenberg'}
+{'href': 'https://archive.org/details/biodiversity', 'title': 'Biodiversity Heritage Library', 'data-event-click-tracking': 'TopNav|TopLink-BiodiversityHeritageLibrary'}
+{'href': 'https://archive.org/details/iacl', 'title': "Children's Library", 'data-event-click-tracking': 'TopNav|TopLink-ChildrenSLibrary'}
+{'href': 'https://openlibrary.org', 'style': "background-image: url('https://archive.org/images/widgetOL.png');", 'aria-hidden': 'true', 'data-event-click-tracking': 'TopNav|CircleWidget-OpenLibrary'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'TopNav|CircleWidget-OpenLibrary', 'href': 'https://openlibrary.org'}
+{'href': 'https://archive.org/details/booksbylanguage', 'title': 'Books by Language', 'data-event-click-tracking': 'TopNav|TopLink-BooksByLanguage'}
+{'href': 'https://archive.org/details/cdromsoftware', 'title': 'CD-ROM Software Library', 'data-event-click-tracking': 'TopNav|TopLink-CDROMSoftwareLibrary'}
+{'href': 'https://archive.org/details/coronadohistorical', 'title': 'Coronado Historical Association', 'data-event-click-tracking': 'TopNav|TopLink-CoronadoHistoricalAssociation'}
+{'href': 'https://archive.org/details/johnmorearty', 'title': 'John Morearty Archives', 'data-event-click-tracking': 'TopNav|TopLink-JohnMoreartyArchives'}
+{'href': 'https://archive.org/details/movies', 'data-event-click-tracking': 'TopNav|FeaturedLink-AllVideo'}
+{'href': 'https://archive.org/search.php?query=mediatype:movies&sort=-publicdate', 'data-event-click-tracking': 'TopNav|FeaturedLink-ThisJustInVideo'}
+{'href': 'https://archive.org/details/prelinger', 'title': 'Prelinger Archives', 'data-event-click-tracking': 'TopNav|FeaturedLink-PrelingerArchives'}
+{'href': 'https://archive.org/details/democracy_now_vid', 'title': 'Democracy Now!', 'data-event-click-tracking': 'TopNav|FeaturedLink-DemocracyNow'}
+{'href': 'https://archive.org/details/occupywallstreet', 'title': 'Occupy Wall Street', 'data-event-click-tracking': 'TopNav|FeaturedLink-OccupyWallStreet'}
+{'href': 'https://archive.org/details/nsa', 'title': 'TV NSA Clip Library', 'data-event-click-tracking': 'TopNav|FeaturedLink-TVNSAClipLibrary'}
+{'href': 'https://archive.org/details/tv', 'style': "background-image: url('https://archive.org/services/img/tv');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/tv'}
+{'href': 'https://archive.org/details/animationandcartoons', 'title': 'Animation & Cartoons', 'data-event-click-tracking': 'TopNav|TopLink-AnimationCartoons'}
+{'href': 'https://archive.org/details/artsandmusicvideos', 'title': 'Arts & Music', 'data-event-click-tracking': 'TopNav|TopLink-ArtsMusic'}
+{'href': 'https://archive.org/details/opensource_movies', 'title': 'Community Video', 'data-event-click-tracking': 'TopNav|TopLink-CommunityVideo'}
+{'href': 'https://archive.org/details/computersandtechvideos', 'title': 'Computers & Technology', 'data-event-click-tracking': 'TopNav|TopLink-ComputersTechnology'}
+{'href': 'https://archive.org/details/culturalandacademicfilms', 'title': 'Cultural & Academic Films', 'data-event-click-tracking': 'TopNav|TopLink-CulturalAcademicFilms'}
+{'href': 'https://archive.org/details/ephemera', 'title': 'Ephemeral Films', 'data-event-click-tracking': 'TopNav|TopLink-EphemeralFilms'}
+{'href': 'https://archive.org/details/moviesandfilms', 'title': 'Movies', 'data-event-click-tracking': 'TopNav|TopLink-Movies'}
+{'href': 'https://archive.org/details/911', 'style': "background-image: url('https://archive.org/services/img/911');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/911'}
+{'href': 'https://archive.org/details/newsandpublicaffairs', 'title': 'News & Public Affairs', 'data-event-click-tracking': 'TopNav|TopLink-NewsPublicAffairs'}
+{'href': 'https://archive.org/details/spiritualityandreligion', 'title': 'Spirituality & Religion', 'data-event-click-tracking': 'TopNav|TopLink-SpiritualityReligion'}
+{'href': 'https://archive.org/details/sports', 'title': 'Sports Videos', 'data-event-click-tracking': 'TopNav|TopLink-SportsVideos'}
+{'href': 'https://archive.org/details/television', 'title': 'Television', 'data-event-click-tracking': 'TopNav|TopLink-Television'}
+{'href': 'https://archive.org/details/gamevideos', 'title': 'Videogame Videos', 'data-event-click-tracking': 'TopNav|TopLink-VideogameVideos'}
+{'href': 'https://archive.org/details/vlogs', 'title': 'Vlogs', 'data-event-click-tracking': 'TopNav|TopLink-Vlogs'}
+{'href': 'https://archive.org/details/youth_media', 'title': 'Youth Media', 'data-event-click-tracking': 'TopNav|TopLink-YouthMedia'}
+{'href': 'https://archive.org/details/audio', 'data-event-click-tracking': 'TopNav|FeaturedLink-AllAudio'}
+{'href': 'https://archive.org/search.php?query=mediatype:audio&sort=-publicdate', 'data-event-click-tracking': 'TopNav|FeaturedLink-ThisJustInAudio'}
+{'href': 'https://archive.org/details/GratefulDead', 'title': 'Grateful Dead', 'data-event-click-tracking': 'TopNav|FeaturedLink-GratefulDead'}
+{'href': 'https://archive.org/details/netlabels', 'title': 'Netlabels', 'data-event-click-tracking': 'TopNav|FeaturedLink-Netlabels'}
+{'href': 'https://archive.org/details/oldtimeradio', 'title': 'Old Time Radio', 'data-event-click-tracking': 'TopNav|FeaturedLink-OldTimeRadio'}
+{'href': 'https://archive.org/details/78rpm', 'title': '78 RPMs and Cylinder Recordings', 'data-event-click-tracking': 'TopNav|FeaturedLink-78RPMsAndCylinderRecordings'}
+{'href': 'https://archive.org/details/etree', 'style': "background-image: url('https://archive.org/services/img/etree');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/etree'}
+{'href': 'https://archive.org/details/audio_bookspoetry', 'title': 'Audio Books & Poetry', 'data-event-click-tracking': 'TopNav|TopLink-AudioBooksPoetry'}
+{'href': 'https://archive.org/details/opensource_audio', 'title': 'Community Audio', 'data-event-click-tracking': 'TopNav|TopLink-CommunityAudio'}
+{'href': 'https://archive.org/details/audio_tech', 'title': 'Computers & Technology', 'data-event-click-tracking': 'TopNav|TopLink-ComputersTechnology'}
+{'href': 'https://archive.org/details/audio_music', 'title': 'Music, Arts & Culture', 'data-event-click-tracking': 'TopNav|TopLink-MusicArtsCulture'}
+{'href': 'https://archive.org/details/audio_news', 'title': 'News & Public Affairs', 'data-event-click-tracking': 'TopNav|TopLink-NewsPublicAffairs'}
+{'href': 'https://archive.org/details/audio_foreign', 'title': 'Non-English Audio', 'data-event-click-tracking': 'TopNav|TopLink-NonEnglishAudio'}
+{'href': 'https://archive.org/details/radioprograms', 'title': 'Radio Programs', 'data-event-click-tracking': 'TopNav|TopLink-RadioPrograms'}
+{'href': 'https://archive.org/details/librivoxaudio', 'style': "background-image: url('https://archive.org/services/img/librivoxaudio');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/librivoxaudio'}
+{'href': 'https://archive.org/details/audio_religion', 'title': 'Spirituality & Religion', 'data-event-click-tracking': 'TopNav|TopLink-SpiritualityReligion'}
+{'href': 'https://archive.org/details/podcasts', 'title': 'Podcasts', 'data-event-click-tracking': 'TopNav|TopLink-Podcasts'}
+{'href': 'https://archive.org/details/software', 'data-event-click-tracking': 'TopNav|FeaturedLink-AllSoftware'}
+{'href': 'https://archive.org/search.php?query=mediatype:software&sort=-publicdate', 'data-event-click-tracking': 'TopNav|FeaturedLink-ThisJustInSoftware'}
+{'href': 'https://archive.org/details/tosec', 'title': 'Old School Emulation', 'data-event-click-tracking': 'TopNav|FeaturedLink-OldSchoolEmulation'}
+{'href': 'https://archive.org/details/softwarelibrary_msdos_games', 'title': 'MS-DOS Games', 'data-event-click-tracking': 'TopNav|FeaturedLink-MSDOSGames'}
+{'href': 'https://archive.org/details/historicalsoftware', 'title': 'Historical Software', 'data-event-click-tracking': 'TopNav|FeaturedLink-HistoricalSoftware'}
+{'href': 'https://archive.org/details/classicpcgames', 'title': 'Classic PC Games', 'data-event-click-tracking': 'TopNav|FeaturedLink-ClassicPCGames'}
+{'href': 'https://archive.org/details/softwarelibrary', 'title': 'Software Library', 'data-event-click-tracking': 'TopNav|FeaturedLink-SoftwareLibrary'}
+{'href': 'https://archive.org/details/internetarcade', 'style': "background-image: url('https://archive.org/services/img/internetarcade');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/internetarcade'}
+{'href': 'https://archive.org/details/open_source_software', 'title': 'Community Software', 'data-event-click-tracking': 'TopNav|TopLink-CommunitySoftware'}
+{'href': 'https://archive.org/details/kodi_archive', 'title': 'Kodi Archive and Support File', 'data-event-click-tracking': 'TopNav|TopLink-KodiArchiveAndSupportFile'}
+{'href': 'https://archive.org/details/softwarelibrary_msdos', 'title': 'MS-DOS', 'data-event-click-tracking': 'TopNav|TopLink-MSDOS'}
+{'href': 'https://archive.org/details/cd-roms', 'title': 'CD-ROM Software', 'data-event-click-tracking': 'TopNav|TopLink-CDROMSoftware'}
+{'href': 'https://archive.org/details/apkarchive', 'title': 'APK', 'data-event-click-tracking': 'TopNav|TopLink-APK'}
+{'href': 'https://archive.org/details/vintagesoftware', 'title': 'Vintage Software', 'data-event-click-tracking': 'TopNav|TopLink-VintageSoftware'}
+{'href': 'https://archive.org/details/cdromsoftware', 'title': 'CD-ROM Software Library', 'data-event-click-tracking': 'TopNav|TopLink-CDROMSoftwareLibrary'}
+{'href': 'https://archive.org/details/consolelivingroom', 'style': "background-image: url('https://archive.org/services/img/consolelivingroom');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/consolelivingroom'}
+{'href': 'https://archive.org/details/softwaresites', 'title': 'Software Sites', 'data-event-click-tracking': 'TopNav|TopLink-SoftwareSites'}
+{'href': 'https://archive.org/details/tucows', 'title': 'Tucows Software Library', 'data-event-click-tracking': 'TopNav|TopLink-TucowsSoftwareLibrary'}
+{'href': 'https://archive.org/details/cdbbsarchive', 'title': 'Shareware CD-ROMs', 'data-event-click-tracking': 'TopNav|TopLink-SharewareCDROMs'}
+{'href': 'https://archive.org/details/softwarelibrary_zx_spectrum', 'title': 'ZX Spectrum', 'data-event-click-tracking': 'TopNav|TopLink-ZXSpectrum'}
+{'href': 'https://archive.org/details/doom-cds', 'title': 'DOOM Level CD', 'data-event-click-tracking': 'TopNav|TopLink-DOOMLevelCD'}
+{'href': 'https://archive.org/details/zx_spectrum_library_games', 'title': 'ZX Spectrum Library: Games', 'data-event-click-tracking': 'TopNav|TopLink-ZXSpectrumLibraryGames'}
+{'href': 'https://archive.org/details/cdromimages', 'title': 'CD-ROM Images', 'data-event-click-tracking': 'TopNav|TopLink-CDROMImages'}
+{'href': 'https://archive.org/details/image', 'data-event-click-tracking': 'TopNav|FeaturedLink-AllImage'}
+{'href': 'https://archive.org/search.php?query=mediatype:image&sort=-publicdate', 'data-event-click-tracking': 'TopNav|FeaturedLink-ThisJustInImage'}
+{'href': 'https://archive.org/details/flickrcommons', 'title': 'Flickr Commons', 'data-event-click-tracking': 'TopNav|FeaturedLink-FlickrCommons'}
+{'href': 'https://archive.org/details/flickr-ows', 'title': 'Occupy Wall Street Flickr', 'data-event-click-tracking': 'TopNav|FeaturedLink-OccupyWallStreetFlickr'}
+{'href': 'https://archive.org/details/coverartarchive', 'title': 'Cover Art', 'data-event-click-tracking': 'TopNav|FeaturedLink-CoverArt'}
+{'href': 'https://archive.org/details/maps_usgs', 'title': 'USGS Maps', 'data-event-click-tracking': 'TopNav|FeaturedLink-USGSMaps'}
+{'href': 'https://archive.org/details/metropolitanmuseumofart-gallery', 'style': "background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/metropolitanmuseumofart-gallery'}
+{'href': 'https://archive.org/details/nasa', 'data-event-click-tracking': 'TopNav|TopLink-NASAImages'}
+{'href': 'https://archive.org/details/solarsystemcollection', 'data-event-click-tracking': 'TopNav|TopLink-SolarSystemCollection'}
+{'href': 'https://archive.org/details/amesresearchcenterimagelibrary', 'data-event-click-tracking': 'TopNav|TopLink-AmesResearchCenter'}
+{'href': 'https://archive.org/details/brooklynmuseum', 'style': "background-image: url('https://archive.org/services/img/brooklynmuseum');", 'aria-hidden': 'true', 'data-event-click-tracking': 'ItemList|ItemListLink'}
+{'class': ['stealth', 'boxy-label'], 'data-event-click-tracking': 'ItemList|ItemListLink', 'href': 'https://archive.org/details/brooklynmuseum'}
+{'title': 'Web', 'class': ['navia-link', 'web'], 'data-top-kind': 'web', 'href': 'https://archive.org/web/', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'title': 'Texts', 'class': ['navia-link', 'texts'], 'data-top-kind': 'texts', 'href': 'https://archive.org/details/texts', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'title': 'Video', 'class': ['navia-link', 'movies'], 'data-top-kind': 'movies', 'href': 'https://archive.org/details/movies', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'title': 'Audio', 'class': ['navia-link', 'audio'], 'data-top-kind': 'audio', 'href': 'https://archive.org/details/audio', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'title': 'Software', 'class': ['navia-link', 'software'], 'data-top-kind': 'software', 'href': 'https://archive.org/details/software', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'title': 'Image', 'class': ['navia-link', 'image'], 'data-top-kind': 'image', 'href': 'https://archive.org/details/image', 'data-toggle': 'tooltip', 'target': '_top', 'data-placement': 'bottom'}
+{'class': ['navbar-brand'], 'href': 'https://archive.org/', 'data-event-click-tracking': 'TopNav|HomeIcon', 'target': '_top'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|AboutLink', 'href': 'https://archive.org/about/'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|ContactLink', 'href': 'https://archive.org/about/contact.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|BlogLink', 'href': '//blog.archive.org'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|ProjectsLink', 'href': 'https://archive.org/projects'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|HelpLink', 'href': 'https://archive.org/about/faqs.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|DonateLink', 'href': 'https://archive.org/donate'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|JobsLink', 'href': 'https://archive.org/about/jobs.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|VolunteerLink', 'href': 'https://archive.org/about/volunteerpositions.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|PeopleLink', 'href': 'https://archive.org/about/bios.php'}
+{'href': 'https://archive.org/search.php', 'onclick': "$(this).parents('#nav-search').find('form').submit(); return false", 'aria-hidden': 'true'}
+{'href': 'https://archive.org/advancedsearch.php', 'class': ['search-options__advanced-search-link'], 'onclick': 'return AJS.advanced_search(this)'}
+{'class': ['nav-upload'], 'href': 'https://archive.org/create', '_target': 'top', 'data-event-click-tracking': 'TopNav|UploadIcon'}
+{'class': ['nav-user'], 'href': 'https://archive.org/account/login', 'style': 'padding-right:0', '_target': 'top', 'data-event-click-tracking': 'TopNav|LoginIcon'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|AboutLink', 'href': 'https://archive.org/about/'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|ContactLink', 'href': 'https://archive.org/about/contact.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|BlogLink', 'href': '//blog.archive.org'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|ProjectsLink', 'href': 'https://archive.org/projects'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|HelpLink', 'href': 'https://archive.org/about/faqs.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|DonateLink', 'href': 'https://archive.org/donate'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|JobsLink', 'href': 'https://archive.org/about/jobs.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|VolunteerLink', 'href': 'https://archive.org/about/volunteerpositions.php'}
+{'target': '_top', 'data-event-click-tracking': 'TopNav|PeopleLink', 'href': 'https://archive.org/about/bios.php'}
+{'href': '#', 'onclick': "window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href), '', 'height=400,width=600'); return false;", 'class': ['social_button'], 'title': 'Share on Facebook'}
+{'href': '#', 'onclick': "window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(window.location.href) + '&via=internetarchive', '', 'height=400,width=600'); return false;", 'class': ['social_button'], 'title': 'Share on Twitter'}
+{'href': '#', 'onclick': "window.open('//archive.org/wayback/web_beta_feedback.php', '', 'height=600, width=600'); return false;", 'class': ['btn', 'btn-primary', 'btn-sm', 'feedback_button'], 'target': '_blank'}
+{'href': 'mailto:info@archive.org'}
+{'href': '//archive.org/'}
+{'href': '//archive.org/projects/'}
+{'href': 'https://openlibrary.org/'}
+{'href': 'https://archive-it.org'}
+{'href': '//archive.org/about/terms.php'}
