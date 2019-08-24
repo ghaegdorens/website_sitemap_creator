@@ -8,9 +8,8 @@ def main():
 
     # Create a BeautifulSoup object
     soup = BeautifulSoup(page.text, 'html.parser')
-
-    print(soup)
- 
+    for href in soup.find_all(href=True):
+        print("Found the URL:", href['href'])
 
 
 if __name__ == '__main__':
