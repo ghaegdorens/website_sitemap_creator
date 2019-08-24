@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 
 
 
-def main():
-    page = requests.get('https://www.lifebankusa.com/sitemap')
+def main()
+    page = requests.get('https://www.300solutions.com/')
 
     # Create a BeautifulSoup object
     soup = BeautifulSoup(page.text, 'html.parser')
